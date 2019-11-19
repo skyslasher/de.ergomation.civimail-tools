@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="de.ergomation.civimail-tools" type="module">
+  <file>civimail_tools</file>
+  <name>Single-Click-Opt-Out for CiviMail</name>
+  <description>By enabling this plugin, users that click on the opt-out link will be opted out immediately, without having to type their e-mail adress into the opt-out form.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Andreas Hahn</author>
+    <email>andreas@ergomation.de</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/skyslasher/de.ergomation.civimail-tools</url>
+    <url desc="Documentation">https://github.com/skyslasher/de.ergomation.civimail-tools</url>
+    <url desc="Support">https://github.com/skyslasher/de.ergomation.civimail-tools</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2019-11-19</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>5.0</ver>
+  </compatibility>
+  <comments>Not for productive use</comments>
+  <civix>
+    <namespace>CRM/CivimailTools</namespace>
+  </civix>
+</extension>
