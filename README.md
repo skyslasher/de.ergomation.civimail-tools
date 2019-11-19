@@ -16,8 +16,6 @@ The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 ## Installation (Web UI)
 
-## Installation (Web UI)
-
 This extension has not yet been published for installation via the web UI.
 
 ## Installation (CLI, Zip)
